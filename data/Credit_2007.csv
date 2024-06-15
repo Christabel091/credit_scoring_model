@@ -1,0 +1,283 @@
+ID,YEAR,MONTH,DOB,Gender,Marital_Status,Nbr_Children,Occupation,Home,Mo_Expenses,Mo_Income,Checking_Account,Savings_Account,Credit_limit,Account_Status,Mo_Balance
+1,2007,12,19/07/1926,Female,Married,2,Administrative,Own,562,1606,No,Yes,high,Balanced,1044
+6,2007,12,03/12/1925,Female,Married,1,Administrative,Own,515,1908,No,Yes,high,60 days late,1393
+7,2007,12,03/06/1926,Male,Married,1,Administrative,Own,579,1655,No,No,low,60 days late,1076
+10,2007,12,03/03/1922,Male,Single,1,Manager,Rent,627,3293,No,Yes,high,30 days late,2666
+11,2007,12,19/11/1916,Female,Married,1,Administrative,Own,529,1265,No,Yes,high,30 days late,736
+12,2007,12,22/01/1932,Male,Married,1,Administrative,Own,596,1988,No,Yes,high,30 days late,1392
+13,2007,12,21/09/1924,Male,Married,2,Administrative,Own,456,1520,No,Yes,very low,Balanced,1064
+14,2007,12,28/03/1951,Male,Single,1,Manager,Rent,479,3095,No,Yes,high,30 days late,2616
+15,2007,12,08/05/1921,Male,Single,2,Administrative,Rent,539,3296,No,Yes,high,30 days late,2757
+16,2007,12,21/02/1948,Male,Married,1,Administrative,Own,548,1567,No,Yes,high,Balanced,1019
+17,2007,12,10/12/1915,Male,Married,2,Skilled,Own,487,1805,No,Yes,high,Balanced,1318
+18,2007,12,22/05/1930,Male,Married,2,Administrative,Own,433,1731,No,Yes,high,Balanced,1298
+19,2007,12,12/12/1927,Male,Married,1,Administrative,Own,469,1738,No,No,low,30 days late,1269
+20,2007,12,01/11/1944,Female,Married,1,Skilled,Rent,596,1704,No,Yes,high,60 days late,1108
+24,2007,12,26/01/1925,Female,Married,2,Skilled,Own,559,1863,No,Yes,high,Balanced,1304
+25,2007,12,15/11/1919,Female,Married,2,Unskilled,Own,423,1692,No,Yes,high,Balanced,1269
+26,2007,12,16/03/1913,Female,Married,2,Administrative,Rent,516,1721,No,Yes,high,60 days late,1205
+27,2007,12,27/05/1925,Male,Single,1,Administrative,Rent,521,3430,No,Yes,high,30 days late,2909
+28,2007,12,23/05/1927,Female,Married,2,Administrative,Own,536,1532,No,Yes,high,Balanced,996
+31,2007,12,19/09/1919,Male,Widowed,1,Manager,Own,366,1046,No,Yes,high,60 days late,680
+32,2007,12,03/03/1923,Female,Widowed,1,Manager,Own,483,1380,No,Yes,high,30 days late,897
+34,2007,12,22/10/1919,Female,Married,2,Administrative,Rent,574,1435,No,Yes,high,Balanced,861
+35,2007,12,19/04/1944,Male,Married,2,Administrative,Own,413,1180,No,Yes,high,Balanced,767
+37,2007,12,19/02/1915,Male,Married,1,Administrative,Own,416,1387,Yes,No,mid-level,30 days late,971
+38,2007,12,19/11/1924,Male,Married,1,Administrative,Own,330,1222,No,Yes,mid-level,60 days late,892
+39,2007,12,04/01/1921,Male,Single,1,Administrative,Own,311,1245,No,No,mid-level,60 days late,934
+40,2007,12,11/01/1916,Male,Single,1,Administrative,Rent,259,3534,No,Yes,mid-level,30 days late,3275
+41,2007,12,05/02/1919,Male,Married,2,Skilled,Own,412,1179,No,Yes,high,Balanced,767
+45,2007,12,15/02/1919,Female,Married,2,Unskilled,Own,403,1008,No,Yes,high,Balanced,605
+51,2007,12,18/03/1917,Female,Single,1,Administrative,Rent,897,3323,No,Yes,very low,30 days late,2426
+52,2007,12,27/02/1942,Male,Married,1,Administrative,Own,1200,3999,No,Yes,high,60 days late,2799
+53,2007,12,24/02/1913,Male,Married,2,Manager,Own,717,1390,Yes,No,low,Balanced,673
+54,2007,12,12/12/1918,Female,Married,2,Manager,Own,700,1334,No,Yes,high,Balanced,634
+56,2007,12,06/10/1927,Male,Married,2,Manager,Own,648,1161,No,Yes,high,Balanced,513
+57,2007,12,05/12/1915,Female,Widowed,1,Manager,Own,549,1831,Yes,Yes,low,30 days late,1282
+58,2007,12,28/10/1942,Male,Married,1,Administrative,Own,470,1742,No,Yes,high,60 days late,1272
+59,2007,12,31/10/1914,Male,Married,1,Manager,Own,693,1981,No,Yes,high,60 days late,1288
+61,2007,12,01/05/1932,Male,Married,2,Manager,Own,750,1352,No,Yes,high,Balanced,602
+64,2007,12,23/12/1935,Male,Married,1,Manager,Own,469,1564,No,Yes,high,30 days late,1095
+66,2007,12,08/09/1928,Female,Married,2,Administrative,Own,539,1796,No,Yes,very low,Balanced,1257
+67,2007,12,18/02/1927,Female,Married,2,Administrative,Own,415,1538,No,Yes,high,Balanced,1123
+71,2007,12,18/12/1917,Male,Married,2,Administrative,Own,364,1213,No,Yes,low,Balanced,849
+76,2007,12,16/02/1916,Male,Single,3,Skilled,Rent,414,3684,No,Yes,high,30 days late,3270
+78,2007,12,04/01/1917,Male,Single,1,Unskilled,Rent,313,1251,No,Yes,high,60 days late,938
+81,2007,12,12/03/1927,Male,Married,1,Administrative,Own,351,1299,No,No,mid-level,30 days late,948
+82,2007,12,19/04/1927,Male,Married,3,Manager,Own,284,1052,No,Yes,high,60 days late,768
+83,2007,12,21/10/1922,Male,Married,2,Skilled,Own,380,1409,Yes,Yes,mid-level,Balanced,1029
+84,2007,12,19/05/1926,Male,Widowed,1,Administrative,Rent,414,1036,No,Yes,low,60 days late,622
+87,2007,12,03/10/1927,Male,Married,1,Administrative,Own,285,1138,No,Yes,high,30 days late,853
+89,2007,12,06/03/1916,Male,Married,2,Skilled,Own,362,1207,No,No,mid-level,Balanced,845
+90,2007,12,16/04/1919,Male,Married,2,Administrative,Own,843,2809,No,Yes,high,60 days late,1966
+91,2007,12,25/01/1928,Male,Married,1,Administrative,Own,957,2734,No,Yes,high,60 days late,1777
+92,2007,12,04/12/1924,Male,Married,2,Administrative,Own,497,1657,No,Yes,high,Balanced,1160
+93,2007,12,25/10/1922,Female,Married,1,Skilled,Own,449,1798,No,No,very low,60 days late,1349
+94,2007,12,07/04/1923,Male,Married,2,Skilled,Own,526,1504,No,Yes,high,Balanced,978
+96,2007,12,11/07/1922,Male,Married,2,Skilled,Own,443,1641,No,Yes,high,Balanced,1198
+98,2007,12,24/05/1923,Male,Single,2,Administrative,Rent,508,3383,No,Yes,high,30 days late,2875
+101,2007,12,17/01/1921,Male,Married,1,Skilled,Rent,530,1325,No,Yes,high,60 days late,795
+102,2007,12,12/04/1917,Male,Widowed,1,Administrative,Own,495,1238,No,Yes,high,30 days late,743
+103,2007,12,17/07/1929,Male,Married,3,Administrative,Own,312,1042,No,Yes,high,30 days late,730
+107,2007,12,03/11/1918,Female,Widowed,1,Administrative,Own,322,1073,No,Yes,high,30 days late,751
+110,2007,12,19/06/1924,Male,Single,1,Skilled,Own,410,1367,No,Yes,high,60 days late,957
+112,2007,12,28/03/1915,Male,Married,2,Skilled,Own,359,1198,No,Yes,high,60 days late,839
+113,2007,12,28/10/1916,Male,Single,2,Administrative,Rent,335,3115,No,Yes,high,30 days late,2780
+114,2007,12,27/06/1926,Female,Married,2,Administrative,Own,349,1397,No,Yes,high,60 days late,1048
+116,2007,12,19/09/1923,Male,Married,1,Administrative,Rent,415,1185,No,Yes,high,60 days late,770
+117,2007,12,18/11/1917,Female,Married,1,Administrative,Own,332,1326,No,Yes,high,60 days late,994
+119,2007,12,22/07/1927,Male,Single,2,Skilled,Rent,552,3380,No,Yes,high,30 days late,2828
+121,2007,12,06/12/1950,Male,Married,2,Administrative,Rent,439,1254,No,Yes,high,Balanced,815
+122,2007,12,10/06/1949,Female,Single,1,Skilled,Rent,409,3168,No,Yes,high,30 days late,2759
+126,2007,12,01/06/1929,Female,Married,2,Skilled,Own,463,1322,No,Yes,high,Balanced,859
+129,2007,12,25/03/1930,Male,Married,1,Skilled,Rent,325,1300,No,Yes,high,60 days late,975
+132,2007,12,21/05/1916,Male,Married,2,Unskilled,Rent,432,1081,No,Yes,high,Balanced,649
+133,2007,12,18/02/1931,Male,Single,1,Administrative,Own,296,1185,No,Yes,high,60 days late,889
+140,2007,12,23/08/1928,Female,Single,1,Administrative,Rent,275,1100,No,Yes,high,60 days late,825
+141,2007,12,06/02/1923,Male,Single,2,Administrative,Rent,435,3451,No,Yes,high,30 days late,3016
+142,2007,12,23/09/1915,Female,Single,1,Skilled,Rent,906,3625,No,Yes,high,30 days late,2719
+144,2007,12,23/09/1923,Male,Widowed,2,Administrative,Own,1004,3345,No,Yes,mid-level,60 days late,2341
+145,2007,12,28/05/1953,Male,Married,2,Administrative,Rent,817,3027,No,Yes,high,60 days late,2210
+149,2007,12,12/12/1931,Male,Married,2,Administrative,Own,723,2892,No,Yes,high,Balanced,2169
+150,2007,12,01/07/1932,Male,Married,1,Administrative,Own,1048,2619,No,No,low,30 days late,1571
+151,2007,12,21/02/1942,Male,Married,2,Administrative,Own,681,2523,No,Yes,high,Balanced,1842
+152,2007,12,19/02/1942,Male,Married,2,Manager,Rent,387,1549,No,Yes,high,Balanced,1162
+153,2007,12,28/02/1942,Female,Married,2,Manager,Own,693,1980,No,No,high,60 days late,1287
+154,2007,12,28/03/1951,Male,Married,2,Administrative,Rent,639,1826,No,Yes,high,60 days late,1187
+155,2007,12,28/03/1951,Female,Married,1,Manager,Own,529,1763,No,Yes,high,60 days late,1234
+156,2007,12,24/04/1951,Female,Married,2,Skilled,Own,521,1929,No,Yes,high,Balanced,1408
+157,2007,12,08/05/1921,Male,Widowed,1,Skilled,Own,434,1240,No,Yes,very low,60 days late,806
+161,2007,12,11/05/1919,Female,Married,1,Skilled,Rent,483,1379,No,Yes,high,60 days late,896
+163,2007,12,22/01/1925,Female,Married,2,Administrative,Rent,325,1084,No,Yes,high,Balanced,759
+169,2007,12,22/05/1930,Female,Single,1,Manager,Rent,491,3402,No,Yes,high,30 days late,2911
+170,2007,12,21/02/1919,Male,Married,1,Administrative,Own,500,1251,No,Yes,high,30 days late,751
+173,2007,12,27/03/1922,Male,Single,1,Administrative,Rent,508,3451,No,Yes,high,30 days late,2943
+174,2007,12,05/12/1925,Male,Widowed,1,Administrative,Own,426,1218,No,Yes,high,60 days late,792
+175,2007,12,27/12/1918,Male,Single,1,Administrative,Rent,495,3237,No,Yes,high,30 days late,2742
+176,2007,12,27/07/1914,Male,Married,2,Skilled,Rent,530,1324,No,Yes,high,Balanced,794
+177,2007,12,08/01/1927,Female,Married,2,Manager,Own,292,1081,No,No,high,Balanced,789
+180,2007,12,09/11/1917,Male,Single,1,Administrative,Own,314,1164,No,Yes,high,60 days late,850
+184,2007,12,18/08/1925,Male,Widowed,1,Administrative,Own,362,1034,No,Yes,high,30 days late,672
+187,2007,12,21/03/1915,Male,Widowed,1,Unskilled,Own,422,1207,No,Yes,high,30 days late,785
+195,2007,12,15/09/1934,Female,Married,1,Manager,Own,332,1229,No,Yes,high,60 days late,897
+196,2007,12,15/08/1929,Female,Married,2,Unskilled,Own,455,1299,No,Yes,high,60 days late,844
+198,2007,12,15/08/1930,Male,Married,1,Administrative,Own,358,1325,No,Yes,high,60 days late,967
+199,2007,12,19/02/1921,Male,Married,1,Administrative,Own,307,1138,No,Yes,high,30 days late,831
+200,2007,12,19/02/1913,Male,Married,2,Skilled,Own,342,1269,No,Yes,high,Balanced,927
+201,2007,12,19/03/1919,Female,Widowed,1,Skilled,Rent,369,1367,No,Yes,high,60 days late,998
+202,2007,12,08/09/1923,Male,Married,2,Unskilled,Own,257,1029,No,Yes,high,60 days late,772
+203,2007,12,03/09/1923,Male,Married,1,Skilled,Own,352,1406,No,Yes,high,30 days late,1054
+204,2007,12,23/04/1919,Male,Single,1,Manager,Rent,469,1173,No,Yes,low,Balanced,704
+205,2007,12,16/05/1926,Male,Married,2,Professional,Own,902,3341,Yes,Yes,low,Balanced,2439
+206,2007,12,16/11/1921,Male,Married,2,Professional,Own,505,1262,No,Yes,mid-level,Balanced,757
+207,2007,12,10/08/1916,Male,Married,2,Manager,Own,634,2536,Yes,Yes,mid-level,Balanced,1902
+208,2007,12,03/07/1928,Male,Married,2,Professional,Own,1134,3782,No,Yes,very low,Balanced,2648
+209,2007,12,28/07/1914,Male,Single,1,Manager,Own,1325,4418,No,Yes,high,Balanced,3093
+210,2007,12,28/06/1916,Male,Married,1,Manager,Own,666,2469,No,Yes,high,Balanced,1803
+211,2007,12,15/07/1925,Male,Single,1,Manager,Own,496,1837,Yes,Yes,very low,Balanced,1341
+212,2007,12,17/03/1926,Female,Married,1,Professional,Own,521,1738,No,Yes,high,Balanced,1217
+213,2007,12,09/11/1915,Male,Married,1,Professional,Own,1522,4349,No,Yes,low,Balanced,2827
+214,2007,12,26/01/1925,Female,Married,2,Professional,Own,1100,3142,Yes,Yes,high,Balanced,2042
+215,2007,12,25/05/1923,Male,Married,2,Professional,Own,942,3491,Yes,Yes,high,Balanced,2549
+216,2007,12,12/11/1925,Female,Married,2,Administrative,Own,388,1438,Yes,Yes,mid-level,Balanced,1050
+217,2007,12,15/11/1919,Female,Married,2,Professional,Own,1049,3496,No,Yes,mid-level,Balanced,2447
+218,2007,12,14/09/1929,Male,Married,2,Professional,Own,442,1262,No,Yes,very low,Balanced,820
+219,2007,12,16/09/1923,Male,Married,1,Professional,Own,1134,3241,No,Yes,high,Balanced,2107
+220,2007,12,27/05/1925,Male,Single,3,Administrative,Own,277,1108,Yes,Yes,low,Balanced,831
+221,2007,12,02/11/1927,Male,Married,2,Professional,Own,1106,3685,Yes,Yes,low,Balanced,2579
+222,2007,12,27/05/1919,Female,Married,2,Professional,Own,945,3149,No,Yes,very low,Balanced,2204
+223,2007,12,15/04/1933,Female,Widowed,1,Professional,Own,823,2743,No,Yes,very low,Balanced,1920
+224,2007,12,17/04/1933,Male,Married,1,Manager,Own,1213,3466,No,Yes,high,Balanced,2253
+225,2007,12,06/08/1933,Female,Married,1,Administrative,Rent,914,3046,No,Yes,high,Balanced,2132
+226,2007,12,24/03/1913,Male,Single,1,Professional,Own,1327,4425,No,Yes,high,Balanced,3098
+227,2007,12,24/01/1917,Male,Married,3,Manager,Rent,1020,3777,No,Yes,low,Balanced,2757
+228,2007,12,24/03/1928,Male,Married,2,Administrative,Own,610,2035,No,Yes,mid-level,Balanced,1425
+231,2007,12,01/12/1922,Male,Married,1,Administrative,Own,620,1550,No,Yes,low,Balanced,930
+232,2007,12,19/02/1915,Female,Married,2,Professional,Own,785,2244,No,Yes,very low,Balanced,1459
+234,2007,12,01/10/1919,Male,Married,2,Administrative,Own,504,1679,No,Yes,low,Balanced,1175
+236,2007,12,09/03/1919,Female,Widowed,1,Professional,Own,495,1651,Yes,Yes,mid-level,Balanced,1156
+237,2007,12,19/05/1913,Male,Single,1,Administrative,Own,345,1380,No,Yes,low,Balanced,1035
+238,2007,12,04/01/1921,Male,Married,3,Administrative,Own,1153,3845,No,Yes,low,Balanced,2692
+239,2007,12,11/02/1921,Female,Married,1,Professional,Own,735,2100,Yes,Yes,low,Balanced,1365
+240,2007,12,19/05/1928,Male,Married,2,Administrative,Own,797,2658,No,Yes,low,Balanced,1861
+243,2007,12,17/09/1923,Male,Married,1,Professional,Own,782,2235,No,Yes,mid-level,Balanced,1453
+244,2007,12,19/02/1913,Male,Married,1,Professional,Own,1159,3862,No,Yes,very low,Balanced,2703
+245,2007,12,19/12/1927,Female,Married,1,Manager,Own,1771,4427,No,Yes,mid-level,Balanced,2656
+246,2007,12,19/11/1930,Male,Married,1,Manager,Own,1490,3726,No,Yes,high,Balanced,2236
+247,2007,12,15/02/1919,Male,Married,2,Professional,Own,1238,4128,No,Yes,mid-level,Balanced,2890
+248,2007,12,11/11/1915,Male,Married,1,Manager,Own,562,2081,Yes,Yes,mid-level,Balanced,1519
+249,2007,12,09/12/1914,Male,Married,1,Professional,Own,948,3513,No,Yes,very low,Balanced,2565
+250,2007,12,06/01/1915,Male,Married,1,Professional,Own,1400,4000,No,Yes,low,Balanced,2600
+251,2007,12,16/03/1924,Male,Married,1,Professional,Own,1507,3768,No,Yes,high,Balanced,2261
+252,2007,12,07/04/1916,Male,Married,2,Professional,Own,1131,2828,No,Yes,low,Balanced,1697
+253,2007,12,11/09/1927,Male,Married,1,Administrative,Own,617,1543,No,Yes,high,Balanced,926
+254,2007,12,09/11/1928,Male,Married,2,Professional,Own,1117,2792,No,Yes,low,Balanced,1675
+255,2007,12,05/03/1927,Male,Married,2,Professional,Own,1523,3808,No,Yes,low,Balanced,2285
+256,2007,12,09/07/1925,Male,Married,2,Professional,Own,845,3130,No,Yes,low,Balanced,2285
+257,2007,12,25/09/1928,Male,Single,2,Professional,Own,426,1578,No,Yes,high,Balanced,1152
+258,2007,12,09/01/1925,Male,Married,3,Professional,Own,569,1896,No,Yes,very low,Balanced,1327
+260,2007,12,18/02/1914,Female,Single,1,Administrative,Own,455,1517,No,Yes,high,Balanced,1062
+261,2007,12,11/10/1918,Male,Married,2,Professional,Own,1100,4399,No,Yes,very low,Balanced,3299
+262,2007,12,24/02/1913,Male,Married,1,Professional,Rent,880,2933,No,Yes,low,Balanced,2053
+263,2007,12,24/10/1921,Male,Married,1,Manager,Own,1095,4057,Yes,Yes,high,Balanced,2962
+264,2007,12,02/04/1925,Male,Married,1,Administrative,Own,1244,3554,No,Yes,high,Balanced,2310
+265,2007,12,08/08/1949,Male,Married,1,Professional,Own,961,3559,No,Yes,mid-level,Balanced,2598
+266,2007,12,24/01/1949,Female,Married,2,Professional,Own,832,3081,No,Yes,mid-level,Balanced,2249
+268,2007,12,19/04/1930,Male,Married,2,Professional,Own,965,3218,No,Yes,mid-level,Balanced,2253
+269,2007,12,02/11/1919,Female,Married,2,Professional,Own,1097,4065,No,Yes,high,Balanced,2968
+270,2007,12,04/06/1919,Male,Married,1,Administrative,Own,1321,3774,No,Yes,very low,Balanced,2453
+271,2007,12,30/04/1932,Female,Married,2,Manager,Own,1029,3812,No,Yes,low,Balanced,2783
+272,2007,12,01/08/1932,Male,Married,1,Skilled,Own,1016,3387,No,Yes,high,Balanced,2371
+273,2007,12,01/07/1932,Male,Single,1,Professional,Own,781,2604,Yes,Yes,low,Balanced,1823
+274,2007,12,23/07/1934,Male,Married,2,Professional,Own,954,2726,No,Yes,very low,Balanced,1772
+275,2007,12,27/11/1934,Female,Married,2,Professional,Own,601,2004,No,Yes,high,Balanced,1403
+276,2007,12,29/04/1935,Female,Married,1,Professional,Rent,1030,2942,No,Yes,low,Balanced,1912
+277,2007,12,04/05/1917,Male,Married,2,Manager,Own,809,2997,No,Yes,low,Balanced,2188
+278,2007,12,18/11/1918,Female,Married,1,Professional,Own,559,1398,No,Yes,very low,Balanced,839
+279,2007,12,07/07/1916,Male,Married,1,Manager,Own,852,3155,No,Yes,mid-level,Balanced,2303
+280,2007,12,28/10/1942,Male,Married,2,Professional,Own,868,2892,Yes,Yes,very low,Balanced,2024
+281,2007,12,13/10/1942,Female,Married,2,Professional,Own,1020,3401,No,Yes,very low,Balanced,2381
+282,2007,12,30/11/1942,Male,Married,1,Administrative,Own,930,3719,No,Yes,mid-level,Balanced,2789
+283,2007,12,16/08/1935,Male,Married,2,Manager,Own,935,3463,No,Yes,low,Balanced,2528
+284,2007,12,05/01/1935,Female,Widowed,1,Administrative,Own,454,1681,No,Yes,very low,Balanced,1227
+285,2007,12,16/06/1935,Male,Married,2,Skilled,Own,415,1187,No,Yes,very low,Balanced,772
+286,2007,12,23/04/1923,Female,Married,2,Administrative,Own,627,1567,Yes,Yes,low,Balanced,940
+287,2007,12,24/02/1917,Male,Married,2,Professional,Own,426,1705,No,Yes,mid-level,Balanced,1279
+289,2007,12,07/01/1937,Male,Married,2,Professional,Own,429,1588,No,Yes,low,Balanced,1159
+291,2007,12,08/09/1937,Male,Married,2,Professional,Own,1260,3601,No,Yes,mid-level,Balanced,2341
+292,2007,12,24/01/1917,Female,Married,2,Professional,Own,824,3053,No,Yes,high,Balanced,2229
+294,2007,12,09/03/1923,Male,Married,2,Manager,Own,1216,4054,No,Yes,high,Balanced,2838
+295,2007,12,11/01/1934,Male,Married,1,Professional,Own,1527,3819,No,Yes,low,Balanced,2292
+296,2007,12,31/07/1934,Male,Married,1,Professional,Rent,1493,3734,No,Yes,very low,Balanced,2241
+297,2007,12,09/02/1933,Male,Married,2,Professional,Own,914,2610,No,Yes,high,Balanced,1696
+298,2007,12,14/12/1919,Male,Married,1,Skilled,Own,704,2346,No,Yes,high,Balanced,1642
+299,2007,12,02/04/1915,Male,Married,2,Manager,Own,549,2034,No,Yes,very low,Balanced,1485
+300,2007,12,15/05/1916,Male,Single,1,Manager,Own,673,2693,Yes,Yes,high,Balanced,2020
+302,2007,12,30/09/1927,Male,Single,1,Administrative,Own,692,1730,Yes,Yes,high,Balanced,1038
+303,2007,12,01/10/1929,Male,Widowed,1,Unskilled,Own,453,1294,No,Yes,mid-level,Balanced,841
+305,2007,12,28/09/1937,Male,Married,2,Administrative,Own,917,3056,No,Yes,high,Balanced,2139
+306,2007,12,22/04/1937,Male,Married,2,Manager,Own,971,3598,No,Yes,low,Balanced,2627
+307,2007,12,05/05/1931,Female,Married,2,Administrative,Own,662,1655,No,Yes,high,Balanced,993
+308,2007,12,02/01/1932,Male,Married,1,Administrative,Own,1270,3176,Yes,Yes,high,Balanced,1906
+309,2007,12,02/04/1931,Male,Married,1,Professional,Own,1248,4161,Yes,Yes,mid-level,Balanced,2913
+310,2007,12,03/01/1930,Male,Married,1,Manager,Own,1087,4027,Yes,Yes,very low,Balanced,2940
+311,2007,12,03/10/1929,Female,Married,2,Professional,Own,1078,3994,No,Yes,mid-level,Balanced,2916
+312,2007,12,30/03/1925,Male,Married,2,Administrative,Own,1376,3932,No,Yes,high,Balanced,2556
+313,2007,12,24/09/1931,Male,Married,1,Manager,Own,1016,2904,Yes,Yes,mid-level,Balanced,1888
+314,2007,12,04/08/1931,Male,Married,1,Manager,Own,1326,3789,No,Yes,low,Balanced,2463
+315,2007,12,30/12/1922,Male,Married,2,Professional,Own,1472,4206,No,Yes,high,Balanced,2734
+316,2007,12,17/02/1913,Female,Married,1,Professional,Own,998,3327,No,Yes,high,Balanced,2329
+317,2007,12,17/01/1928,Female,Married,2,Professional,Own,671,2237,No,Yes,very low,Balanced,1566
+320,2007,12,02/06/1924,Female,Married,1,Professional,Own,1336,3816,No,Yes,low,Balanced,2480
+321,2007,12,05/05/1924,Male,Married,2,Professional,Own,1441,3604,No,Yes,mid-level,Balanced,2163
+322,2007,12,08/12/1916,Female,Married,2,Professional,Own,1187,3391,Yes,Yes,very low,Balanced,2204
+323,2007,12,09/03/1916,Female,Married,2,Professional,Own,701,2804,Yes,Yes,very low,Balanced,2103
+324,2007,12,16/04/1913,Male,Married,2,Administrative,Own,1248,4161,No,Yes,very low,Balanced,2913
+325,2007,12,16/04/1923,Male,Single,1,Professional,Own,1063,4254,No,Yes,high,Balanced,3191
+326,2007,12,16/02/1922,Male,Single,1,Administrative,Own,860,2868,Yes,Yes,mid-level,Balanced,2008
+327,2007,12,15/09/1922,Male,Married,2,Administrative,Own,543,2010,No,Yes,very low,Balanced,1467
+328,2007,12,16/01/1918,Male,Married,2,Professional,Own,1547,3867,No,Yes,high,Balanced,2320
+329,2007,12,17/05/1914,Female,Married,1,Professional,Rent,1457,3643,No,Yes,very low,Balanced,2186
+331,2007,12,05/04/1958,Female,Married,2,Professional,Own,897,3323,No,Yes,high,Balanced,2426
+332,2007,12,10/02/1957,Male,Married,1,Professional,Own,1521,4347,No,Yes,low,Balanced,2826
+334,2007,12,19/01/1921,Male,Married,1,Professional,Own,1310,3744,No,Yes,mid-level,Balanced,2434
+335,2007,12,12/12/1919,Male,Married,1,Manager,Own,908,3364,No,Yes,low,Balanced,2456
+336,2007,12,11/10/1919,Male,Married,2,Professional,Own,974,3248,No,Yes,mid-level,Balanced,2274
+337,2007,12,12/02/1919,Male,Married,2,Administrative,Own,882,3266,No,Yes,high,Balanced,2384
+338,2007,12,19/11/1925,Female,Married,1,Professional,Own,895,2559,No,Yes,low,Balanced,1664
+339,2007,12,02/08/1919,Male,Married,3,Professional,Own,812,2705,No,Yes,low,Balanced,1893
+340,2007,12,21/07/1925,Male,Married,2,Administrative,Own,552,1578,Yes,Yes,mid-level,Balanced,1026
+341,2007,12,08/08/1919,Male,Married,2,Administrative,Own,500,1998,No,Yes,very low,Balanced,1498
+342,2007,12,19/08/1928,Male,Married,2,Manager,Own,449,1663,No,Yes,very low,Balanced,1214
+343,2007,12,02/08/1916,Female,Married,1,Professional,Own,704,1760,No,Yes,high,Balanced,1056
+344,2007,12,16/03/1917,Male,Married,1,Administrative,Own,716,1790,No,Yes,high,Balanced,1074
+345,2007,12,01/02/1916,Male,Married,2,Skilled,Own,479,1917,No,Yes,mid-level,Balanced,1438
+346,2007,12,08/09/1928,Male,Married,1,Professional,Own,540,1542,No,Yes,very low,Balanced,1002
+347,2007,12,02/02/1928,Male,Married,1,Administrative,Own,351,1002,No,Yes,mid-level,Balanced,651
+348,2007,12,09/06/1928,Female,Married,2,Professional,Own,289,1072,Yes,Yes,low,Balanced,783
+350,2007,12,19/07/1918,Male,Single,1,Administrative,Own,449,1498,No,Yes,mid-level,Balanced,1049
+351,2007,12,19/09/1914,Male,Married,2,Professional,Own,551,1838,No,Yes,low,Balanced,1287
+352,2007,12,05/04/1962,Male,Married,1,Professional,Own,1521,4345,No,Yes,mid-level,Balanced,2824
+353,2007,12,08/06/1961,Male,Married,2,Professional,Own,544,2178,No,Yes,low,Balanced,1634
+354,2007,12,25/07/1961,Male,Married,2,Professional,Own,1029,2941,No,Yes,mid-level,Balanced,1912
+355,2007,12,26/05/1919,Male,Married,1,Administrative,Own,1465,3662,Yes,Yes,high,Balanced,2197
+356,2007,12,26/03/1915,Male,Married,2,Professional,Own,1188,3393,Yes,Yes,mid-level,Balanced,2205
+357,2007,12,25/04/1930,Female,Married,1,Manager,Own,1067,3049,Yes,Yes,very low,Balanced,1982
+358,2007,12,19/09/1933,Male,Married,1,Manager,Own,1343,3838,No,Yes,high,Balanced,2495
+359,2007,12,21/11/1933,Male,Married,2,Administrative,Own,911,3373,No,Yes,high,Balanced,2462
+360,2007,12,24/08/1933,Female,Married,2,Professional,Own,1234,3086,No,Yes,high,Balanced,1852
+361,2007,12,19/12/1924,Male,Married,2,Manager,Own,1216,3474,No,Yes,high,Balanced,2258
+362,2007,12,06/07/1918,Male,Married,2,Administrative,Own,955,3538,No,Yes,very low,Balanced,2583
+363,2007,12,10/05/1921,Male,Married,1,Administrative,Own,1085,3616,No,Yes,high,Balanced,2531
+365,2007,12,16/07/1929,Male,Married,2,Professional,Own,1268,3624,No,Yes,low,Balanced,2356
+366,2007,12,07/04/1916,Male,Married,2,Administrative,Rent,579,2145,Yes,Yes,mid-level,Balanced,1566
+367,2007,12,05/01/1927,Male,Married,1,Professional,Own,559,1863,Yes,Yes,low,Balanced,1304
+368,2007,12,05/07/1927,Male,Married,1,Professional,Own,469,1737,No,Yes,low,Balanced,1268
+369,2007,12,28/03/1913,Male,Married,1,Professional,Own,419,1551,No,Yes,very low,Balanced,1132
+370,2007,12,12/06/1921,Female,Married,2,Professional,Own,615,1759,No,Yes,very low,Balanced,1144
+373,2007,12,11/08/1934,Female,Married,2,Skilled,Own,382,1274,No,Yes,mid-level,Balanced,892
+374,2007,12,11/07/1934,Male,Single,2,Professional,Own,1274,4247,No,Yes,low,Balanced,2973
+375,2007,12,23/12/1934,Male,Married,1,Professional,Own,1120,2801,No,Yes,low,Balanced,1681
+376,2007,12,19/05/1917,Male,Married,2,Professional,Own,973,2780,No,Yes,mid-level,Balanced,1807
+377,2007,12,08/05/1919,Female,Married,2,Unskilled,Own,438,1624,No,Yes,low,Balanced,1186
+378,2007,12,19/01/1922,Male,Single,1,Administrative,Own,460,1703,No,Yes,very low,Balanced,1243
+379,2007,12,19/08/1947,Female,Married,1,Administrative,Own,1343,3357,No,Yes,mid-level,Balanced,2014
+383,2007,12,21/11/1913,Male,Married,1,Professional,Own,1478,4224,No,Yes,very low,Balanced,2746
+385,2007,12,12/08/1915,Male,Married,2,Professional,Own,485,1616,No,Yes,low,Balanced,1131
+386,2007,12,09/06/1914,Female,Married,2,Manager,Own,530,1768,No,Yes,very low,Balanced,1238
+387,2007,12,11/07/1913,Male,Married,2,Professional,Own,1151,3835,No,Yes,high,Balanced,2684
+388,2007,12,01/08/1915,Female,Married,2,Professional,Rent,1444,4126,No,Yes,high,Balanced,2682
+389,2007,12,13/03/1916,Male,Married,1,Professional,Own,1770,4424,No,Yes,low,Balanced,2654
+390,2007,12,15/12/1913,Male,Married,1,Professional,Own,1515,3787,No,Yes,high,Balanced,2272
+391,2007,12,21/06/1919,Male,Married,1,Manager,Own,848,3143,No,Yes,very low,Balanced,2295
+392,2007,12,21/06/1926,Male,Married,2,Professional,Own,973,3605,No,Yes,mid-level,Balanced,2632
+395,2007,12,28/08/1919,Male,Married,2,Professional,Own,845,3129,No,Yes,high,Balanced,2284
+396,2007,12,10/08/1928,Female,Married,2,Administrative,Own,649,2162,No,Yes,low,Balanced,1513
+397,2007,12,09/06/1918,Female,Married,2,Manager,Own,1042,2606,No,Yes,very low,Balanced,1564
+398,2007,12,18/06/1929,Male,Single,1,Administrative,Own,1148,2869,No,Yes,high,Balanced,1721
+400,2007,12,19/06/1929,Female,Married,2,Skilled,Own,825,2749,No,Yes,high,Balanced,1924
+401,2007,12,19/08/1930,Male,Married,1,Professional,Own,744,1861,No,Yes,very low,Balanced,1117
+402,2007,12,19/06/1913,Male,Widowed,1,Skilled,Own,501,1856,No,Yes,very low,Balanced,1355
+404,2007,12,15/08/1919,Female,Married,1,Administrative,Own,750,1675,No,Yes,low,Balanced,925
+406,2007,12,19/09/1918,Male,Married,2,Administrative,Own,474,1579,No,Yes,very low,Balanced,1105
+407,2007,12,19/09/1919,Male,Married,1,Administrative,Own,543,1810,No,Yes,high,Balanced,1267
