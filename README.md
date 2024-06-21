@@ -109,7 +109,7 @@ By following these steps, you'll be able to build a comprehensive machine learni
 
 - email - obinwosugosiorah@gmail.com
 
-- [Project_Link:](https://github.com/Christabel091/hospital-clinic-website)
+- [Project_Link:](https://github.com/Christabel091/credit_scoring_model)
 
 ## Project Status
 
